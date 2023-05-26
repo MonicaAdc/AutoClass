@@ -3,8 +3,7 @@ package homework2;
 public class Shape {
 	
 	//constructor
-	public Shape (int length)
-	{
+	public Shape (int length) {
 		int area = calculateSquareArea(length);
 		System.out.println("The area of the square is:"+ area);
 	}
