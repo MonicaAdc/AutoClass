@@ -9,7 +9,7 @@ public class TernaryOperatorEx1 {
 		double b=0.05;
 	
 		int x = 
-				System.out.println("Te rog sa intoduci valoarea facturii :");
+				System.out.println("Te rog sa intoduci valoarea fac :");
 		Scanner scan  =  new Scanner(System.in);
 	}
 
