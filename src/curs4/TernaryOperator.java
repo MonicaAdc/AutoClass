@@ -1,4 +1,4 @@
-package curs4;
+ package curs4;
 
 public class TernaryOperator {
 
