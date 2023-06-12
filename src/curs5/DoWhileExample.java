@@ -12,6 +12,7 @@ public class DoWhileExample {
 			i++;
 		}
 		System.out.println("---------------------------");
+		
 		int j = 0;
 		do {
 			System.out.println(orase[j]);
