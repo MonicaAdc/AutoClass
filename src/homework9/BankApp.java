@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class BankApp {
 
 	public static void main(String[] args) {
-		//ATM atm =  new ATM();
 		Account acc = new Account();
 		BankApp bank =  new BankApp();
 		bank.printeazaOperatiuni();
@@ -69,7 +68,6 @@ public class BankApp {
 			System.out.println("Do you want to continue?(Y/N)");
 				continu = scanc.next();
 				if(continu.equalsIgnoreCase("y"))
-				//if (continu.equals("Y") || continu.equals("y"))
 				{
 				    continue;
 				}else  {
