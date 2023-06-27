@@ -1,5 +1,11 @@
 package homework8;
-
+/*
+ * Clasa Customer – cu 3 variabile
+   Clasa Account – cu 3 variabile si metoda public void withdraw(){if() else sysoutInsufficientFundsException
+   Clasa InsuficientFundsException  - clasa de exceptie custom. Extinde
+   Exception si seteaza in constructor mesajul “Insuficient funds for transaction”
+   Clasa SavingsAccount care mosteneste Account
+ */
 public class Account {
 
 	private int accountNumber;
